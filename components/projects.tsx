@@ -30,7 +30,7 @@ const Projects = () => {
       category: 'ai-ml',
       technologies: ['Python', 'BERT', 'Transformers', 'Scikit-learn', 'Pandas'],
       github: 'https://github.com/arpitaapatel/FMD-COLING-2025',
-      demo: 'https://demo.com',
+      demo: 'https://financial-misinformation-detection.netlify.app',
       featured: true
     },
     {
@@ -259,4 +259,5 @@ const Projects = () => {
 }
 
 export default Projects
+
 
