@@ -41,9 +41,9 @@ const Contact = () => {
       color: 'hover:bg-blue-600'
     },
     {
-      name: 'Twitter',
-      icon: Twitter,
-      url: 'https://x.com/Arpitapatel_',
+      name: 'Leetcode',
+      icon: Leetcode,
+      url: 'https://leetcode.com/u/arpitapatel/',
       color: 'hover:bg-blue-400'
     },
     {
